@@ -1,7 +1,7 @@
 Euler-CBFCM-GUI
 ===============
 
-GUI for Euler CBFCM (Case Based Fuzzy Cognitive Maps) inference engine.
+GUI for Euler CBFCM (Case Based Fuzzy Cognitive Maps by Nassim Douali) inference engine.
 
 The GUI is based on EulerGUI, a generic GUI for Semantic Web and inference engines.
 
